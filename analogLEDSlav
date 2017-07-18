@@ -1,3 +1,11 @@
+
+//       ____
+//      /    \    
+//     /  /\  \    Ali KESGİN
+//    /  /  \  \	Robota
+//   /  /    \  \________
+//  /  /      \___________
+
 #include<Wire.h>
 
 #define DEVICE_ADD 11
