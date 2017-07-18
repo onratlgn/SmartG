@@ -1,3 +1,9 @@
+//       ____
+//      /    \    
+//     /  /\  \    Ali KESGİN
+//    /  /  \  \	Robota
+//   /  /    \  \________
+//  /  /      \___________
 #include "Slav.h"
 
 Slav::Slav(int deviceAdd_) {
