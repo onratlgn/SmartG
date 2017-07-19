@@ -7,6 +7,7 @@ public:
 
 	Slav(int deviceAdd_);
 	void begin();
+	// buraya yazdım
 	void requestEvent();
 	void receiveEvent(int howMany);
 	void updateMODE();
